@@ -1,0 +1,18 @@
+Formato de versiones: 3/diciembre/2019
+
+v1 .0 .0
+ º  +  *
+ º  +  *
+ º  +  *
+
+***: Arreglo de bugs
++++: Cambios para mejorar el funcionamiento/fluidez
+	del programa, que sean poco notables o nulos
+	para el usuario.
+ººº: Cambios notables para el usuario, como añadir
+	funciones.
+
+--------------------------------
+Updates:
+
+-v1.0.1:
